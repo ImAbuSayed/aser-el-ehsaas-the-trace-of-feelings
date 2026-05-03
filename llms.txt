@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> قلبي ينادي في عتمة الليل
+> نار الشوق تحرقني كالسيل
+> يا روحي تعالي ننسى الويل
+> وجمال عيونك ماله مثيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
